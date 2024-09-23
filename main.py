@@ -5,7 +5,7 @@ def print_time():
     print(f"The current local time is: {current_time}")
 print_time()
 
-def print_day_of_week():
-    current_day = datetime.datetime.now().strftime("%A")
-    print(f"Today is: {current_day}")
-print_day_of_week()
+# def print_day_of_week():
+#     current_day = datetime.datetime.now().strftime("%A")
+#     print(f"Today is: {current_day}")
+# print_day_of_week()
